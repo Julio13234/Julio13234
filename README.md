@@ -17,7 +17,7 @@ I'm an early-career developer from Brazil 🇧🇷 who learns by building. Rathe
 
 - 🔭 Currently building **Rent Plus**, a full-stack rental property management app
 - 🌱 Learning **Java**, **Python** and **Swift**
-- 🎯 Looking for my first opportunity as a developer
+- 🎯 Looking for a opportunity as a developer
 - 💬 Ask me about turning messy manual processes into simple apps
 - 📫 Reach me at **julio.cesar.pr132@gmail.com**
 
