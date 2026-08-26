@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Júlio César Pereira 👋</h1>
 
-<!--
-**Julio13234/Julio13234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Software developer in the making — building real tools to solve real problems.</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/julio-cesar-pereira-3b29a4272"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:julio.cesar.pr132@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+I'm an early-career developer from Brazil 🇧🇷 who learns by building. Rather than collecting tutorials, I pick a problem I actually have and turn it into working software — that's how I got started, and it's still how I learn best.
+
+- 🔭 Currently building **Rent Plus**, a rental property management system
+- 🌱 Learning **Java**, **Python** and **Swift**
+- 🎯 Looking for my first opportunity as a developer
+- 💬 Ask me about turning messy manual processes into simple apps
+- 📫 Reach me at **julio.cesar.pr132@gmail.com**
+
+---
+
+### Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+### Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[Rent Plus](https://github.com/Julio13234/rent-plus-app)** | Rental property management — dashboard, tenants, payment tracking and overdue alerts | HTML · CSS · JavaScript |
+
+---
+
+<p align="center">
+  <em>"Creativity is what I like to improve. Everything I build, I build with care — and that's the part that matters most."</em>
+</p>
